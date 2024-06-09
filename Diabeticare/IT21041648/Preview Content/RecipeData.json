@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Sweet Corn Puree",
+        "category": "Rivers",
+        "city": "Twentynine Palms",
+        "state": "non vegetarian",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Breakfast",
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "description": "The recommended portion size of lean protein eg chicken breast meat for a main meal is 100-150g. This is a guide only, the exact amount depends on many factors including body weight, age, gender, height and how active you are.",
+        "imageName": "sweetcornpuree"
+    },
+    {
+        "name": "Tuna baked potatoes",
+        "category": "Lakes",
+        "city": "Port Alsworth",
+        "state": "Vegetarian",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Breakfast",
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "description": "There's nothing more comforting than a hot baked potato for your evening meal. Just add a topping of tuna and cheese, and tuck in!" ,
+        "imageName": "tunabakedpotato"
+    },
+    {
+        "name": "Low GI banana bread",
+        "category": "Mountains",
+        "city": "Skagway",
+        "state": "Vegetarian",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Breakfast",
+        "coordinates": {
+            "longitude": -135.334571,
+            "latitude": 59.560551
+        },
+        "description": "Transform your overripe bananas into something deliciously sweet, moist and healthy! This banana bread is perfect for an afternoon snack with a cup of tea, or enjoy a slice toasted with your morning coffee",
+        "imageName": "chilkoottrail"
+    },
+    {
+        "name": "Sweet n sour chicken",
+        "category": "Lakes",
+        "city": "Browning",
+        "state": "non-vegetarian",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "dinner",
+        "coordinates": {
+            "longitude": -113.536248,
+            "latitude": 48.69423
+        },
+        "description": "Enjoy this fakeaway. It is a cheaper, lower sugar alternative to the takeaway version and the meat is stir-fried instead of deep fried, making it a much healthier choice. What's not to love?",
+        "imageName": "stmarylake"
+    },
+    {
+        "name": "Spicy Orange Barbeque Pork",
+        "category": "Lakes",
+        "city": "Twin Lakes",
+        "state": "Non - vegetarian",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Lunch",
+        "coordinates": {
+            "longitude": -153.849883,
+            "latitude": 60.641684
+        },
+        "description": "Quick and simple, this dish makes the perfect mid-week dinner. Marinate lean pork steaks in herbs and spices for an hour, then pop on the barbeque or fry in a pan, and finish with a tangy orange sauce. Just the right amount of sweetness and spice to give your taste buds a treat",
+        "imageName": "twinlake"
+    },
+    {
+        "name": "hot cross buns",
+        "category": "Lakes",
+        "city": "Twin Lakes",
+        "state": "Vegetarian",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Dessert",
+        "coordinates": {
+            "longitude": -153.849883,
+            "latitude": 60.641684
+        },
+        "description": "Made with wholemeal flour, these mini hot cross buns are smaller in size for a better portion control.",
+        "imageName": "hotcross"
+    },
+    {
+        "name": "Teriyaki salmon",
+        "category": "Lakes",
+        "city": "Twin Lakes",
+        "state": "Non - vegetarian",
+        "id": 1007,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Lunch",
+        "coordinates": {
+            "longitude": -153.849883,
+            "latitude": 60.641684
+        },
+        "description": "Quick and simple, this dish makes the perfect mid-week dinner. Marinate lean pork steaks in herbs and spices for an hour, then pop on the barbeque or fry in a pan, and finish with a tangy orange sauce. Just the right amount of sweetness and spice to give your taste buds a treat",
+        "imageName": "Teriyaki"
+    }
+]
